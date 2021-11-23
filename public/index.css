@@ -1,0 +1,10 @@
+body {
+    height: 100vh;
+}
+
+.firstButton {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translateY(-50%) translateX(-50%);
+}
